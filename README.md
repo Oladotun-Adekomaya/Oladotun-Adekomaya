@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oladotun-Adekomaya
 - 👀 I’m interested in programming, copywriting, and fastlane entrepreneurship.
-- 🌱 I’m currently learning web development and i'm currently working on a project
+- 🌱 I’m currently sharpning my cloud skills.
 - 💞️ I’m looking to collaborate on projects with real use case
 - ❗ You'll notice I'm not active on GitHub, that's because 
      I develop locally until I hit a specific milestone before pushing.
