@@ -2,8 +2,6 @@
 - 👀 I’m interested in programming, copywriting, and fastlane entrepreneurship.
 - 🌱 I’m currently sharpening my cloud skills.
 - 💞️ I’m looking to collaborate on projects with real use case
-- ❗ You'll notice I'm not active on GitHub, that's because 
-     I develop locally until I hit a specific milestone before pushing.
 - 📫 How to reach me
      Email: oladotunadekomaya@gmail.com
      Twitter:
